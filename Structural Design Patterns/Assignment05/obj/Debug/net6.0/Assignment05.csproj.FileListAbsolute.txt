@@ -1,0 +1,15 @@
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\bin\Debug\net6.0\Assignment05.exe
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\bin\Debug\net6.0\Assignment05.deps.json
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\bin\Debug\net6.0\Assignment05.runtimeconfig.json
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\bin\Debug\net6.0\Assignment05.dll
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\bin\Debug\net6.0\Assignment05.pdb
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\obj\Debug\net6.0\Assignment05.csproj.AssemblyReference.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\obj\Debug\net6.0\Assignment05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\obj\Debug\net6.0\Assignment05.AssemblyInfoInputs.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\obj\Debug\net6.0\Assignment05.AssemblyInfo.cs
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\obj\Debug\net6.0\Assignment05.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\obj\Debug\net6.0\Assignment05.dll
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\obj\Debug\net6.0\refint\Assignment05.dll
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\obj\Debug\net6.0\Assignment05.pdb
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\obj\Debug\net6.0\Assignment05.genruntimeconfig.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_11\Assignment05\Assignment05\obj\Debug\net6.0\ref\Assignment05.dll
