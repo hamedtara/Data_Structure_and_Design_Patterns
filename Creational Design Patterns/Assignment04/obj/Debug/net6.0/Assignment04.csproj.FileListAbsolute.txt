@@ -1,0 +1,15 @@
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\bin\Debug\net6.0\Assignment04.exe
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\bin\Debug\net6.0\Assignment04.deps.json
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\bin\Debug\net6.0\Assignment04.runtimeconfig.json
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\bin\Debug\net6.0\Assignment04.dll
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\bin\Debug\net6.0\Assignment04.pdb
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\obj\Debug\net6.0\Assignment04.csproj.AssemblyReference.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\obj\Debug\net6.0\Assignment04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\obj\Debug\net6.0\Assignment04.AssemblyInfoInputs.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\obj\Debug\net6.0\Assignment04.AssemblyInfo.cs
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\obj\Debug\net6.0\Assignment04.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\obj\Debug\net6.0\Assignment04.dll
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\obj\Debug\net6.0\refint\Assignment04.dll
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\obj\Debug\net6.0\Assignment04.pdb
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\obj\Debug\net6.0\Assignment04.genruntimeconfig.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\week_9\Assignment04\Assignment04\Assignment04\obj\Debug\net6.0\ref\Assignment04.dll
