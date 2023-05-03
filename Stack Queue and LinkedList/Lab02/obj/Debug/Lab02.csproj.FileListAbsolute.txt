@@ -1,0 +1,23 @@
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\obj\Debug\Lab02.Form1.resources
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\hamed\Desktop\Semester 2\Data Strc and Design Patterns\lab02\Lab02\Lab02\obj\Debug\Lab02.pdb
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\bin\Debug\Lab02.exe.config
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\bin\Debug\Lab02.exe
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\bin\Debug\Lab02.pdb
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.AssemblyReference.cache
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.SuggestedBindingRedirects.cache
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\obj\Debug\Lab02.Properties.Resources.resources
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.GenerateResource.cache
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\obj\Debug\Lab02.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\obj\Debug\Lab02.exe
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\obj\Debug\Lab02.pdb
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\obj\Debug\Assignemnt02.Form1.resources
+C:\Users\hamed\Desktop\lab02\lab02\Lab02\Lab02\obj\Debug\Lab02.Form2.resources
